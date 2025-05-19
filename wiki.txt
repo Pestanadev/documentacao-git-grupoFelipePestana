@@ -1,7 +1,5 @@
 1 - O que é Github: É uma ferramenta de controle de versão baseada na web, que permite que os desenvolvedores 
-colaborem em projetos de software. O Github é construído sobre o sistema de controle de versão Git, que foi criado 
-por Linus Torvalds em 2005. O Github oferece uma interface gráfica para o Git, além de recursos adicionais como 
-rastreamento de problemas, gerenciamento de projetos e integração contínua.
+colaborem em projetos de software.
 
 2 - Principais Comandos do Github:
 git init # Inicializa um repositório Git vazio
@@ -13,13 +11,6 @@ git branch # Mostra as branches do repositório
 git checkout -b nome-da-branch # Cria e muda para uma nova branch
 git checkout nome-da-branch # Muda para uma branch existente
 git merge nome-da-branch # Faz o merge de uma branch
-git pull # Faz o pull das alterações do repositório remoto
-git push # Faz o push das alterações para o repositório remoto
-git clone url-do-repositorio # Clona um repositório remoto
-git remote add origin url-do-repositorio # Adiciona um repositório remoto
-git remote -v # Mostra os repositórios remotos
-git fetch # Busca as alterações do repositório remoto
-git reset --hard HEAD # Desfaz todas as alterações não commitadas
 
 3 - Como resolver pull requests:
 - Acesse o repositório no Github
