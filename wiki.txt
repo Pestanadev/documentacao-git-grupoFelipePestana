@@ -13,6 +13,7 @@ git checkout nome-da-branch # Muda para uma branch existente
 git merge nome-da-branch # Faz o merge de uma branch
 git pull # Puxa as alterações do repositório remoto
 git push # Envia as alterações para o repositório remoto
+git clone url-do-repositorio # Clona um repositório remoto
 
 3 - Como resolver pull requests:
 - Acesse o repositório no Github
